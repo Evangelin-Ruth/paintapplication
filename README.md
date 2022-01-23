@@ -215,7 +215,9 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
--- include your output screenshots ---
+![paint output](https://user-images.githubusercontent.com/94219798/150680472-b356c53d-b577-4d21-ab8e-14e33f9835f4.JPG)
+![paint output2](https://user-images.githubusercontent.com/94219798/150680480-6da1b434-c821-4797-98b2-481bb66fcd67.JPG)
+
 
 ## Result:
 
